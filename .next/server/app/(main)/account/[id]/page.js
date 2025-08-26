@@ -1,0 +1,17 @@
+const CHUNK_PUBLIC_PATH = "server/app/(main)/account/[id]/page.js";
+const runtime = require("../../../../chunks/ssr/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_7c458f._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__550d4a._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_48d50d._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__a9a15d._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__a917f3._.css");
+runtime.loadChunk("server/chunks/ssr/node_modules_ezheaders_dist_index_mjs_f46594._.js");
+runtime.loadChunk("server/chunks/ssr/app_not-found_jsx_f0f4a6._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_client_components_53c5c0._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_client_components_unauthorized-error_d758e6.js");
+runtime.loadChunk("server/chunks/ssr/app_(main)_layout_c40bb6.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_client_components_not-found-error_b76de5.js");
+runtime.loadChunk("server/chunks/ssr/_37bb5d._.js");
+runtime.loadChunk("server/chunks/ssr/_474e40._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/(main)/account/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/account.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/(main)/account/[id]/page { MODULE_0 => \"[project]/app/layout.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_1 => \"[project]/app/not-found.jsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/(main)/layout.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_5 => \"[project]/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_6 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_7 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_8 => \"[project]/app/(main)/account/[id]/page.jsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
