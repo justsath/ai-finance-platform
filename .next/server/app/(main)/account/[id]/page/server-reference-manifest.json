@@ -1,0 +1,49 @@
+{
+  "node": {
+    "40bba72744231a7906a5ebe73c1ec29fca0843438d": {
+      "workers": {
+        "app/(main)/account/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/account/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/account.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/account/[id]/page": "rsc"
+      }
+    },
+    "7f242e7ea905a8dc9d2da24f9e149b6ff779d9882b": {
+      "workers": {
+        "app/(main)/account/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/account/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/account.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/account/[id]/page": "action-browser"
+      }
+    },
+    "409f7015f012c7be8ebd1985b584faa70deb0d840e": {
+      "workers": {
+        "app/(main)/account/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/account/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/account.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/account/[id]/page": "rsc"
+      }
+    },
+    "40ee969ca431ff02b7ecbdf4f8bb35d37a216bebc6": {
+      "workers": {
+        "app/(main)/account/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/account/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/account.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/account/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}
